@@ -6,3 +6,5 @@ Rats
 Sheep
 Dog
 Cat
+Donkey
+Bull
