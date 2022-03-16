@@ -3,3 +3,6 @@ Elephant
 Rabbit
 Cow
 Rats
+Sheep
+Dog
+Cat
