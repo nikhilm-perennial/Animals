@@ -2,3 +2,5 @@ Fish
 Sea Horse
 Frog
 Snake
+Eel
+Star Fish
