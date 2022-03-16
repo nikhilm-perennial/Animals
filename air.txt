@@ -2,3 +2,5 @@ Crow
 Peacock
 Hen
 Dove
+Sparrow
+Eagle
